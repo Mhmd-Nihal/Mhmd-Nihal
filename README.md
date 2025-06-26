@@ -1,5 +1,5 @@
 ## Hi There!.. 
-##  I am Muhammed Humraz H  
+##  I am Muhammed Nihal 
 ## Welcome to my GitHub Profile!!!
 
 
@@ -13,25 +13,25 @@
 
 ### 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamraz201@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammeenihal32@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammed_humraz_11?igsh=aG00YW05YTFmajE4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-humraz-283a5435b)
 
 ---
 ## 🏆 GitHub Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mhmd-Nihal&theme=gruvbox)
 
 
 
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)](https://github.com/mhd-humraz)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mhmd-Nihal&theme=dark)](https://github.com/mhd-humraz)
   
 
 
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact)](https://github.com/mhd-humraz)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mhmd-Nihal&theme=github-compact)](https://github.com/mhd-humraz)
 
 
 ## 🧰  Tech Stack:
@@ -69,7 +69,7 @@
 
 <h4 align="center"> Profile Views</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Mhmd-Nihal/count.svg" alt="Profile Views" />
 </p>
 ---
 
@@ -78,10 +78,10 @@
 <img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
 
-![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
+![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhmd-Nihal&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd-Nihal&layout=compact&theme=tokyonight)
 
 
 
